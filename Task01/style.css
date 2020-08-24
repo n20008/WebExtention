@@ -1,0 +1,86 @@
+@charset "utf-8";
+
+h1 {
+	font-size: 21px;
+} 
+h2 {
+	font-size: 18px;
+}
+h3 {
+	font-size: 18px;
+}
+p {
+	margin-top: 0;
+	margin-bottom 0;
+}
+h2 {
+	color: #ff4500;
+	font-weight: bold;
+}
+
+h3.main-style {
+	padding: 0.25em 0.5em;
+	color: #494;
+}
+
+h3#将来の職業 {
+	color: #888888
+}
+
+.float-box {
+	float: right;
+	margin-right: 1em;
+	margin-bottom: 0.5em;
+	vertical-align: baseline;
+}
+
+.float-clear {
+	overflow: hidden;
+}
+
+.item {
+	background-color: #ffebcd;
+}
+
+table {
+	border-collapse: collapse;
+}
+th, td {
+	border: 1px solid #8fbac8;
+	padding: 8px;
+}
+
+#it-specialist
+
+#index.html
+
+.wrapper {
+	overflow: hidden;
+}
+.item2 {
+	float: left;
+	margin: 8px 0 8px 8px;
+	border: 1px solid #ccc;
+	padding: 8px;
+	width: 300px;
+}
+
+a {
+	color: #0073bc;
+}
+a:link {
+	color: #0073bc;
+}
+a:visited {
+	color: #02314c;
+}
+a:hover {
+	color: #b7dbf2;
+}
+a:active {
+	color: #4ca4e8;
+}
+.subnav a {
+	padding-left: 16px;
+	background: url(images/listmark.png) no-repeat left 0 top 4px;
+}
