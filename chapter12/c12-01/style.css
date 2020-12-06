@@ -2,6 +2,7 @@
 
 body {
     margin: 0;
+<<<<<<< HEAD
 }
 .container {
     margin: 0 auto 0 auto;
@@ -35,4 +36,6 @@ footer {
 .footer-inner {
     padding: 20px 16px 10px 16px;
     background: #bad7f5;
+=======
+>>>>>>> 9cf517975a64f79a017da0a00dad078ed0b8a85e
 }
